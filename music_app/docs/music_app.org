@@ -1,0 +1,36 @@
+#+options: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil expand-links:t f:t inline:t num:t p:nil pri:nil prop:nil
+#+options: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+title: Musicializer
+#+date: <2024-01-26 Fri>
+#+author: vigneshrr
+#+email: vigneshrr@debian
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.2 (Org mode 9.7)
+#+cite_export:
+#+latex_class: article
+#+latex_class_options:
+#+latex_header:
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+subtitle: Music application using raylib, inspired by tsoding/musicializer
+#+latex_engraved_theme:
+#+latex_compiler: pdflatex
+#+date: \today
+
+* Introduction:
+This is the documentation for the music application created using raylib.
+
+* References:
+1. [[https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux][Working On GNU/Linux with raylib]]
+2. [[https://slembcke.github.io/HotLoadC][Easy Hot-Reloading in C]]
+3. [[https://www.raylib.com/][Raylib Website]]
+4. [[https://raylib.handmade.network/][Raylib Website [Handmade]​]]
+
+* Inspiration:
+1. [[https://yewtu.be/watch?v=Xdbk1Pr5WXU&list=PLpM-Dvs8t0Vak1rrE2NJn8XYEJ5M7-BqT&index=0][Music Visualizer (Fast Fourier Transform)]] [Playlist]
+2. [[https://github.com/tsoding/musializer/tree/master][Tsoding-Musicializer[Github]​]]
