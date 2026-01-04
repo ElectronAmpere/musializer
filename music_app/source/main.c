@@ -2,7 +2,7 @@
 
 #define RAYGUI_IMPLEMENTATION
 
-#include "raygui.h"
+#include "external/raygui.h"
 
 int main() {
 
